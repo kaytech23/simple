@@ -12,6 +12,7 @@ startFile
 6 line
 7 line
 sudden line
+rebase test
 
 // second user
 3 line
