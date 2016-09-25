@@ -1,4 +1,8 @@
 startFile
 
 1 first line second user
+<<<<<<< HEAD
 2 secondline second user
+=======
+2 second line first user
+>>>>>>> ba3aefcf178c5218f22bdbe64738e873eb191efd
